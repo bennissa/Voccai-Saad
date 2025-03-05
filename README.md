@@ -6,7 +6,7 @@ Implementation of a beta vocal agent to take appointments modify or cancel them
   - Usecase 2 : allow the user to cancel an appointment and directly update a given google calendar
   - Usecase 2 : allow the user to modify an appointment and directly update it to a given google calendar
 
-- You will find my project code inside the example/voccai folder
+- You will find my project code inside the pipecat/example/voccai folder
 
 - There you will have a more specific README that will allow you to run the solution
 
